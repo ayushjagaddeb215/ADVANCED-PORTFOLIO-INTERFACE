@@ -1,0 +1,13 @@
+{
+  "name": "Ayush Jagaddeb",
+  "title": "Full Stack & AI Developer",
+  "email": "ayushjagadev012@gmail.com",
+  "bio": "Specialized in the architecture of API-based applications and AI-powered systems. Experienced Python Full Stack Developer with a strong focus on front-end designing to create intuitive user interfaces, backed by a core expertise in scalable backend solutions and efficient system design.",
+  "available": true,
+  "socials": {
+    "github": "https://github.com/ayushjagaddeb215",
+    "linkedin": "https://www.linkedin.com/in/ayush-jagaddeb"
+  },
+  "skills": ["Java", "C", "JavaScript", "React", "Next.js", "TypeScript", "Python", "Flask", "PostgreSQL", "HTML", "CSS"],
+  "projects": []
+}
